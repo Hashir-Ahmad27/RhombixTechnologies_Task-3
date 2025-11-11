@@ -1,22 +1,21 @@
-#Number Guessing Game (C++)
+# Number Guessing Game - Rhombix Technologies
 
-A simple and interactive C++ console-based Number Guessing Game developed in CLion as part of my remote internship at Rhombix Technologies.
-The program randomly selects a number between 1 and 100, and the player must guess it. After each attempt, the program provides real-time feedback such as “Too high”, “Too low”, or “You’re close!” until the correct number is guessed.
+A simple console-based **Number Guessing Game** developed during my internship at **Rhombix Technologies**.This project demonstrates fundamental programming concepts such as random number generation, loops, conditional statements, and user interaction in **C++**.
 
-#Features
+---
 
-Random number generation using rand() and time()
+## Features
+- Randomly generates a number between 1 and 100.
+  
+- Provides hints like “Too high”, “Too low”, and “You’re close!”.
 
-Real-time feedback for every guess
+- Tracks user input and continues until the correct number is guessed.
 
-User-friendly console interface
+- Displays a congratulatory message upon success.
+---
 
-Cross-platform C++ program
+## Technologies Used
+- **Programming Language:** C++
+- **Development Environment:** Any C++ compiler (e.g., Code::Blocks, Visual Studio, g++, etc.)
 
-#Technologies Used
-
-Language: C++
-
-IDE: CLion
-
-Environment: Console Application
+---
